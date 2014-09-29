@@ -6,7 +6,7 @@ using Fabrica.mundo;
 
 namespace Fabrica
 {
-    class Vehiculo
+    class Transporte
     {
         static void Main()
         {
