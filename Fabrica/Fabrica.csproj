@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Vehiculo.cs" />
+    <Compile Include="Transporte.cs" />
     <Compile Include="mundo\TipoTransporte.cs" />
     <Compile Include="mundo\Aereo.cs" />
     <Compile Include="mundo\FabricaTransporte.cs" />
